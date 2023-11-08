@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane  maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="393.0" prefWidth="604.0" style="-fx-background-color: #80ffff; -fx-border-color: #10394e;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="285.0" fitWidth="260.0" layoutX="170.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@ICONOS/logo.png" />
+         </image></ImageView>
+      <Label  layoutX="14.0" layoutY="336.0" prefHeight="30.0" prefWidth="576.0" text="Hecho por los alumnos: Franco Pernasilici, Cristian Rebolledo,">
+         <font>
+            <Font name="Fira Code Light" size="15.0" />
+         </font></Label>
+      <Label layoutX="14.0" layoutY="316.0" text="Profesor: Maximiliano Elsezar">
+         <font>
+            <Font name="Fira Code Light" size="15.0" />
+         </font></Label>
+      <Label layoutX="14.0" layoutY="364.0" text="Matías Montero, Gabriela Capogrecco y Marcos Salinas.">
+         <font>
+            <Font name="Fira Code Light" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
